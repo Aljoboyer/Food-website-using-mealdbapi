@@ -1,3 +1,3 @@
 # Food Website Using MEAL_DB Api
-This project link [Essence of Music]( https://essence-of-music.netlify.app/).
+This project link [Food Fpr FOODIES](https://food-for-foodies.netlify.app/).
 -This website about food
