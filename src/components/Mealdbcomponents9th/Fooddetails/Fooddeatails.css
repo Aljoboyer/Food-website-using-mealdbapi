@@ -1,0 +1,9 @@
+.ingrediant li{
+    list-style: none;
+}
+.links{
+    text-decoration: none;
+}
+.details{
+    background-image: linear-gradient(rgb(228, 216, 216),rgb(50, 105, 135));
+}

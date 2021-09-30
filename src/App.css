@@ -1,38 +1,58 @@
-.App {
+.hrclass{
+  height: 200px;
+  color: black;
+}
+.input{
+  height: 50px;
+  width: 300px;
+}
+/* .players{
+  height: 180px;
+  width: 400px;
+  color: rgb(82, 0, 0);
+  background-color: cadetblue;
+  margin-left: 300px;
+  margin-top: 70px;
+  text-align: center;
+  border: 2px solid rgb(82, 0, 0);
+  border-radius: 20px;
+}
+.increase{
+  height: 200px;
+  width: 200px;
+  margin-left: 500px;
+  margin-top: 150px;
+  border: solid black 2px;
+  border-radius: 20px;
+  background-color: rgb(180, 218, 255);
+  color: brown;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.increase-btn{
+  padding: 10px;
+  color: brown;
+  font-weight: bold;
+  background-color: cadetblue;
+  border-radius: 5px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.dincrease-btn{
+  padding: 10px;
+  color: brown;
+  font-weight: bold;
+  background-color: rgb(237, 240, 51);
+  border-radius: 5px;
 }
+.user{
+  height: 200px;
+  width: 250px;
+  background-color: burlywood;
+  color: rgb(0, 0, 0);
+  border: rgb(1, 1, 29) solid 2px;
+  border-radius: 10px;
+} */
+/* .app{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-row-gap: 20px;
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+} */
